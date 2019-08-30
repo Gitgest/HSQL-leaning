@@ -1,4 +1,4 @@
-# HSQL-leaning
+# HSQL-learning
 Learning to use JDBC, HSQL
 
 https://github.com/Gitgest/HSQL-leaning.git
